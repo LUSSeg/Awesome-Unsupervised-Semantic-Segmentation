@@ -20,3 +20,11 @@
 | Title| Abbreviation| Published | Dataset| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 | Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals | MaskContrast | ICCV2021 | VOC | [pytorch](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation) | [paper](https://arxiv.org/abs/2102.06191) |
+| PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering | PICIE | CVPR2021 | COCO, Cityscapes | [pytorch](https://github.com/janghyuncho/PiCIE) | [paper](https://arxiv.org/abs/2103.17070) |
+
+## 2019
+
+| Title| Abbreviation| Published | Dataset| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+| Invariant Information Clustering for Unsupervised Image Classification and Segmentation | IIC | ICCV2019 | COCO, Potsdam | [pytorch](https://github.com/xu-ji/IIC) | [paper](https://arxiv.org/abs/1807.06653) |
+| SegSort: Segmentation by Discriminative Sorting of Segments | SegSort | ICCV2019 | VOC | [tensorflow](https://github.com/jyhjinghwang/segsort) | [paper](https://arxiv.org/abs/1910.06962) |
