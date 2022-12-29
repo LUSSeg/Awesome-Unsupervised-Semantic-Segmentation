@@ -42,7 +42,7 @@
 | Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals | MaskContrast | ICCV2021 | VOC | [pytorch](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation) | [paper](https://arxiv.org/abs/2102.06191) |
 | PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering | PICIE | CVPR2021 | COCO, Cityscapes | [pytorch](https://github.com/janghyuncho/PiCIE) | [paper](https://arxiv.org/abs/2103.17070) |
 | InfoSeg: Unsupervised Semantic Image Segmentation with Mutual Information Maximization | InfoSeg | GCPR2021 | COCO, Potsdam | | [paper](https://arxiv.org/abs/2110.03477) |
-| Unsupervised Image Segmentation by Mutual Information Maximization and Adversarial Regularization | InMARS | RA-L | COCO, Potsdam | | [paper](https://arxiv.org/abs/2107.00691) |
+| Unsupervised Image Segmentation by Mutual Information Maximization and Adversarial Regularization | InMARS | RA-L2021 | COCO, Potsdam | | [paper](https://arxiv.org/abs/2107.00691) |
 
 ## 2020
 
