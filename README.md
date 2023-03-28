@@ -20,6 +20,14 @@ This is a summary of recent unsupervised semantic segmentation methods.
 | ImageNet-S 300 | 300      | 384862  | 4097  | 9088  |
 | ImageNet-S        | 919      | 1183322 | 12419 | 27423 |
 
+## 2023
+Leveraging Hidden Positives for Unsupervised Semantic Segmentation
+
+
+| Title| Abbreviation| Published | Dataset| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+| Leveraging Hidden Positives for Unsupervised Semantic Segmentation | HP | CVPR2023 | COCO, Cityscapes, Potsdam | [pytorch](https://github.com/hynnsk/HP) | [paper](https://arxiv.org/pdf/2303.15014v1.pdf) |
+
 ## 2022
 
 | Title| Abbreviation| Published | Dataset| CODE | PDF             |
